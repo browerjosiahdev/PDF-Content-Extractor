@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailExtractor", "EmailExtractor\EmailExtractor.csproj", "{51F09AD0-BC4B-411D-A87A-0F8A798089E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F09AD0-BC4B-411D-A87A-0F8A798089E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F09AD0-BC4B-411D-A87A-0F8A798089E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F09AD0-BC4B-411D-A87A-0F8A798089E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F09AD0-BC4B-411D-A87A-0F8A798089E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
